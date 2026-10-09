@@ -21,6 +21,8 @@ Bilibili-Evolved v2 独立组件，采用[哔哩哔哩直播弹幕反诈修改�
 
 收录信息提交到主项目的 `registry/lib/docs/third-party.ts`，组件名为 `liveDanmakuSendStatus`，owner 为 `mengguojia`。收录 PR 合并并发布目录后，可从在线仓库搜索安装。
 
+[第三方组件收录 PR #5823](https://github.com/the1812/Bilibili-Evolved/pull/5823)
+
 ## 响应处理
 
 | 返回值 | 处理 |
